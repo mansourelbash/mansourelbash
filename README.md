@@ -53,7 +53,6 @@ I approach coding like an art form! Whether it's pixel-perfect styling or design
 
 ### 📫 Let's Connect!
 I'm always open to discussing projects, ideas, and collaborations:
-- [LinkedIn](https://www.linkedin.com/in/mansourelbashabsheh/)
 - [Portfolio](https://yourwebsite.com)
 - [Email](mailto:mansour.programmer@gmail.com)
 
