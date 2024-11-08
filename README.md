@@ -1,7 +1,5 @@
 ## 👨‍💻 Senior Front-End Developer | UI/UX Enthusiast | Code Artisan 👨‍💻
 
----
-
 ### 🚀 About Me
 I'm passionate about crafting exceptional user experiences and building robust, intuitive front-end applications. With a strong foundation in UI/UX design principles and a knack for clean, maintainable code, I strive to bridge the gap between design and functionality in all my projects.
 
