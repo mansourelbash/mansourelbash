@@ -49,6 +49,12 @@ I approach coding like an art form! Whether it's pixel-perfect styling or design
     </picture>
     </a></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 ### 📫 Let's Connect!
 I'm always open to discussing projects, ideas, and collaborations:
 - [Portfolio](https://yourwebsite.com)
